@@ -12,4 +12,3 @@ manual landmark information.
 The data was migrated from Google Code to GitHub in Oct 2015.  Thanks to Fred Nicolls for his help.
 
 Stephen Milborrow
-Shrewsbury, Oct 2015
